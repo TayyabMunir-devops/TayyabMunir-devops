@@ -7,7 +7,7 @@
 
 ---
 
-## 🔥 Leo Tech
+## 🔥 Leo Tech Solution
 
 ### Frontend
 - React.js

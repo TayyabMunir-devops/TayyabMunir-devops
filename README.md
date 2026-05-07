@@ -7,7 +7,7 @@
 
 ---
 
-## 🔥 Tech Stack
+## 🔥 Leo Tech
 
 ### Frontend
 - React.js
